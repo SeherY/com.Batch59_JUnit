@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f31b8cf-c0d2-428c-8033-6610bb08a421" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C02_MavenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_JUnit/C03_JUnitIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C01_BeforeClass_AfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C02_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C03_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_radioButton_checkBox/C04_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C02_BestBuyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C03_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C04_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C05_DropDownOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions/C06_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iframe/C01_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iframe/C02_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iframe/C03_Basic_Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_alerts_iframe/C04_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C01_handleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C02_handleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C03_windowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C03_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C04_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C05_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actions/TestBaseFirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C01_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C03_FileExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C04_FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_faker_file/C05_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C01_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_senkronizasyon/C02_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C03_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_excel/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/day09_handleWindows_testBase/C03_windowHandles.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/day11_faker_file/C01_Faker.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/day13_cookies_webTables/C02_WebTables.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Fz8qIB4KSC5Esz1owJHcVQwYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/com_Batch59JUnit/src/resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\com_Batch59JUnit\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C05_FileUpload.test01">
+    <configuration name="C02_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C02_Actions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Actions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C02_Actions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_FileExist.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C03_FileExist" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_FileDownload.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C04_FileDownload" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_FileUpload.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_Batch59JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_faker_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_faker_file" />
+      <option name="MAIN_CLASS_NAME" value="day11_faker_file.C05_FileUpload" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C05_FileUpload.test01" />
+        <item itemvalue="JUnit.C04_FileDownload.test01" />
+        <item itemvalue="JUnit.C03_FileExist.test01" />
+        <item itemvalue="JUnit.C02_Actions" />
+        <item itemvalue="JUnit.C02_Actions.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f31b8cf-c0d2-428c-8033-6610bb08a421" name="Changes" comment="" />
+      <created>1652723466688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652723466688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
